@@ -76,8 +76,8 @@ Ensure you have the following hardware and software prerequisites:
 
 7. Upload the Code
 
-   - Upload master.ino to the Master Arduino.  
-   - Upload slave.ino to the Slave Arduino.
+   - Upload - [Master Code (master.ino)](./code/master.ino) to the Master Arduino.  
+   - Upload [Slave Code (slave.ino)](./code/slave.ino) to the Slave Arduino.
   
 # **Usage**
 
